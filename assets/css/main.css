@@ -963,7 +963,7 @@ section,
 }
 
 .get-started .php-email-form {
-  background: color-mix(in srgb, var(--default-color), transparent 97%);
+  background: color-mix(in srgb, var(--default-color), transparent 90%);
   padding: 30px;
   height: 100%;
 }
