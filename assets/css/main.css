@@ -782,6 +782,12 @@ section,
   padding: 140px 0 60px 0;
 }
 
+.hero .info h1{
+  font-size: 75px;
+  color: goldenrod;
+  font-weight: bold;
+}
+
 @media (max-width: 768px),
 (max-height: 480px) {
   .hero .info {
