@@ -802,7 +802,7 @@ section,
   content: "";
   position: absolute;
   display: block;
-  width: 80px;
+  width: 300px;
   height: 4px;
   background: var(--accent-color);
   left: 0;
